@@ -1,7 +1,7 @@
 # Ember-blog
 
-This README outlines the details of collaborating on this Ember application.
 This is the ember-blog from Jon Evans video tutorial. https://www.youtube.com/watch?v=vLXGKNA4P_g&sns=tw
+Some of the code is updated because of deprecations.
 
 ## Prerequisites
 
